@@ -41,3 +41,7 @@ So, an ACL lists three things:
 - The users that can access them;
 - The actions these users can carry out - ie read, update, create, or delete;
 - Each user must have their own entry. This is then linked to the security attributes of all relevant objects.
+
+## Sources
+
+- [Role-Based Access Control](https://budibase.com/blog/app-building/role-based-access-control)
