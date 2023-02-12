@@ -1,6 +1,6 @@
 # Access control
 
-## Types of access controll
+## Types of access control
 
 - [MAC](#mac) - Mandatory Access Control;
 - [RBAC](#rbac) - Role-Based Access Control;
