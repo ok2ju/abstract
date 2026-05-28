@@ -1,4 +1,0 @@
-# Techniques
-
-## Approaches:
-- Ralph loop
