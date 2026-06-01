@@ -12,6 +12,9 @@ A set of notes on different tech topics.
 ### Databases
 - [Vector Databases](db/vector-database.md) — storing and searching data by meaning; embeddings, ANN indexing, and use cases.
 
+### Search & Retrieval
+- [Hybrid Search: BM25, Semantic Search, and RRF](search/hybrid-search.md) — keyword vs. meaning-based search and how RRF merges them.
+
 ### Security
 - [Access Control](access-control/access-control.md) — MAC, RBAC, ABAC, DAC, and ACL models compared.
 - [Authentication](auth/auth.md) — cookie-based vs. token-based auth and their trade-offs.
