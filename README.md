@@ -23,6 +23,9 @@ A set of notes on different tech topics.
 - [UI Libraries](ui-libraries/ui-libraries.md) — types of UI tooling, styling approaches, and how to choose.
 - [Color Schema](color-schema/color-schema.md) — managing light/dark themes and color schemes in your app.
 
+### Infrastructure
+- [Web App Delivery & SRE](infra/sre-infrastructure-overview.md) — a beginner's mental model tying together Docker, Kubernetes, Terraform, Helm, GitOps, service mesh, and observability.
+
 ### Tools
 - [git](tools/git.md) — useful git commands and snippets.
 - [tmux](tools/tmux.md) — common tmux session and pane commands.
