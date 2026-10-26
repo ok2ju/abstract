@@ -25,7 +25,10 @@ A set of notes on different tech topics.
 
 ### Infrastructure
 - [Web App Delivery & SRE](infra/sre-infrastructure-overview.md) — a beginner's mental model tying together Docker, Kubernetes, Terraform, Helm, GitOps, service mesh, and observability.
+- [Liveness and Readiness Probes](infra/health-probes.md) — what each probe checks, what happens when it fails, and how Kubernetes and Docker Compose use them.
 
 ### Tools
+- [Docker](tools/docker.md) — distroless images: what they contain, trade-offs, and a multi-stage build example.
 - [git](tools/git.md) — useful git commands and snippets.
+- [macOS](tools/macOS.md) — keeping your Mac awake with the built-in `caffeinate` command.
 - [tmux](tools/tmux.md) — common tmux session and pane commands.
